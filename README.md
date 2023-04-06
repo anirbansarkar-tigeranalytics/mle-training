@@ -15,4 +15,8 @@ The following techniques have been used:
  - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
 
 ## To excute the script
+Install all the dependents using pip install
+pip install numpy
+pip install pandas
+conda install scikit-learn
 python < scriptname.py >
